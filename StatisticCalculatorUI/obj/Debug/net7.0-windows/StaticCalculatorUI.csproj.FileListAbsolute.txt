@@ -1,0 +1,14 @@
+C:\C# projects\TerVerHw\StaticCalculatorUI\bin\Debug\net7.0-windows\StaticCalculatorUI.exe
+C:\C# projects\TerVerHw\StaticCalculatorUI\bin\Debug\net7.0-windows\StaticCalculatorUI.deps.json
+C:\C# projects\TerVerHw\StaticCalculatorUI\bin\Debug\net7.0-windows\StaticCalculatorUI.runtimeconfig.json
+C:\C# projects\TerVerHw\StaticCalculatorUI\bin\Debug\net7.0-windows\StaticCalculatorUI.dll
+C:\C# projects\TerVerHw\StaticCalculatorUI\bin\Debug\net7.0-windows\StaticCalculatorUI.pdb
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\StaticCalculatorUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\StaticCalculatorUI.AssemblyInfoInputs.cache
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\StaticCalculatorUI.AssemblyInfo.cs
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\StaticCalculatorUI.csproj.CoreCompileInputs.cache
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\StaticCalculatorUI.dll
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\refint\StaticCalculatorUI.dll
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\StaticCalculatorUI.pdb
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\StaticCalculatorUI.genruntimeconfig.cache
+C:\C# projects\TerVerHw\StaticCalculatorUI\obj\Debug\net7.0-windows\ref\StaticCalculatorUI.dll

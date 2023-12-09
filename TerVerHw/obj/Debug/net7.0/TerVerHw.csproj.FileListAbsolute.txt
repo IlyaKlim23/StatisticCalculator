@@ -1,0 +1,14 @@
+C:\C# projects\TerVerHw\TerVerHw\bin\Debug\net7.0\TerVerHw.exe
+C:\C# projects\TerVerHw\TerVerHw\bin\Debug\net7.0\TerVerHw.deps.json
+C:\C# projects\TerVerHw\TerVerHw\bin\Debug\net7.0\TerVerHw.runtimeconfig.json
+C:\C# projects\TerVerHw\TerVerHw\bin\Debug\net7.0\TerVerHw.dll
+C:\C# projects\TerVerHw\TerVerHw\bin\Debug\net7.0\TerVerHw.pdb
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\TerVerHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\TerVerHw.AssemblyInfoInputs.cache
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\TerVerHw.AssemblyInfo.cs
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\TerVerHw.csproj.CoreCompileInputs.cache
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\TerVerHw.dll
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\refint\TerVerHw.dll
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\TerVerHw.pdb
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\TerVerHw.genruntimeconfig.cache
+C:\C# projects\TerVerHw\TerVerHw\obj\Debug\net7.0\ref\TerVerHw.dll
