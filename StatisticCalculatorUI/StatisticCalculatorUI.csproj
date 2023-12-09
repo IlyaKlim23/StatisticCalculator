@@ -9,4 +9,18 @@
         <RootNamespace>StaticCalculatorUI</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Update="DiscreteExpectationForm\DiscreteExpectationForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\StatisticCalculator\StatisticCalculator.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Forms\" />
+    </ItemGroup>
+
 </Project>

@@ -11,7 +11,7 @@ public class FormConfigurator
 
     public void SetFormSize(int width, int height)
     {
-        _form.Size = new Size()
+        _form.Size = new Size
         {
             Width = width,
             Height = height

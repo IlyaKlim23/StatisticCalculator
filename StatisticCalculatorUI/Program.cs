@@ -1,3 +1,5 @@
+using StaticCalculatorUI.Forms.MainForm;
+
 namespace StaticCalculatorUI;
 
 static class Program

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StatisticCalculatorUI/1.0.0": {
+        "dependencies": {
+          "StatisticCalculator": "1.0.0"
+        },
+        "runtime": {
+          "StatisticCalculatorUI.dll": {}
+        }
+      },
+      "StatisticCalculator/1.0.0": {
+        "runtime": {
+          "StatisticCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StatisticCalculatorUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StatisticCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

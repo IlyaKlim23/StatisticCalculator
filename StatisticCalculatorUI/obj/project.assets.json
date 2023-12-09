@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0-windows7.0": {}
+    "net7.0-windows7.0": {
+      "StatisticCalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/StatisticCalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StatisticCalculator.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "StatisticCalculator/1.0.0": {
+      "type": "project",
+      "path": "../StatisticCalculator/StatisticCalculator.csproj",
+      "msbuildProject": "../StatisticCalculator/StatisticCalculator.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0-windows7.0": []
+    "net7.0-windows7.0": [
+      "StatisticCalculator >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\klimk\\.nuget\\packages\\": {},
@@ -40,7 +59,11 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\C# projects\\StatisticCalculator\\StatisticCalculator\\StatisticCalculator.csproj": {
+              "projectPath": "C:\\C# projects\\StatisticCalculator\\StatisticCalculator\\StatisticCalculator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
