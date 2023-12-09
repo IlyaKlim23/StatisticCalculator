@@ -17,8 +17,8 @@ class Program
             {5, 0.5}
         };
 
-        Console.WriteLine($"Моду ряда: {CalculateMode(numbers)}");
-        Console.WriteLine($"Медиана ряда: {CalculateMedian(numbers)}");
+        // Console.WriteLine($"Моду ряда: {CalculateMode(numbers)}");
+        // Console.WriteLine($"Медиана ряда: {CalculateMedian(numbers)}");
         Console.WriteLine($"Математическое ожидание: {CalculateDiscreteExpectation(numbers2)}");
         Console.WriteLine($"Дисперсия: {CalculateVariance(numbers2)}");
     }
