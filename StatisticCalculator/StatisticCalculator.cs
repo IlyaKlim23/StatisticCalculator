@@ -53,7 +53,6 @@ public static class StatisticCalculator
         
         return new OkResponse(double.Round(numbers.Sum(x => x.Key * x.Value), 2));
     }
-        
     
     /// <summary>
     /// Метод для вычисления дисперсии

@@ -44,7 +44,6 @@ class MainFormComponents
             .ToNestle(_groupBox, Nestles.TopRight)
             .SetText("Математическое ожидание | Дисперсия")
             .ToCenterVertical(_groupBox);
-
         
         _groupBox.Controls.Add(_modeButton);
         _groupBox.Controls.Add(_discreteExpectationButton);
